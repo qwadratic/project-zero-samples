@@ -27,7 +27,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'recipes/get-balance',
         'recipes/get-transactions', 
-        'recipes/recipe-3', 
+        'recipes/get-token-balances', 
       ],
     },
   ],

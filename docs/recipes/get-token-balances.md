@@ -1,5 +1,5 @@
 ---
-id: recipe-3
+id: get-token-balances
 title: Get ERC-20 Tokens Owned by a Wallet
 ---
 
